@@ -1,0 +1,14 @@
+#container {
+    height: 600px; 
+  }
+  
+  .highcharts-figure {
+    min-width: 110px; 
+    max-width: 1000px;
+    margin: 1em auto;
+  }
+  
+  body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(46,101,112,1) 100%);
+  }
